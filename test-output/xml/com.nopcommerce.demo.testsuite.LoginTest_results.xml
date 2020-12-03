@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login Test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="15.390">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToLoginPage" time="0.612" classname="com.nopcommerce.demo.testsuite.LoginTest" />
+                <testcase name="doLogin" time="5.778" classname="com.nopcommerce.demo.testsuite.LoginTest" />
+                <testcase name="verifyErrorMessageWhenWrongPasswordIsEntered" time="4.488" classname="com.nopcommerce.demo.testsuite.LoginTest" />
+                <testcase name="verifyErrorMessageWhenWrongUserNameIsEntered" time="4.512" classname="com.nopcommerce.demo.testsuite.LoginTest" />
+      
+</testsuite>
